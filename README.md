@@ -14,7 +14,7 @@ A curated Awesome list of websites that tracks the state of Rust in related area
   It's ripe for experimentation, but the ecosystem isn't very complete yet.
 
 ## Async Programming
-  [Are We Async Yet](https://areweasyncyet.rs/) 
+  [Are We Async Yet](https://areweasyncyet.rs/)  
   🎉 Yes! 🎉  
   The long-awaited async/await syntax has been stabilized in Rust 1.39. 
 
