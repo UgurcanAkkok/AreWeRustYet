@@ -29,7 +29,7 @@ A curated Awesome list of websites that tracks the state of Rust in related area
   [Are We IPFS Yet](https://areweipfsyet.rs/)
   ...kinda, yeah! The foundations are there, but there's still a lot of fine-tuning and advanced features to implement.
   
-## Auido Programming
+## Audio Programming
   [Are we Audio Yet](https://areweaudioyet.com/)  
   You can make sounds!  
   🦀 🔊 There are some libraries and plenty of people making things.
