@@ -1,2 +1,2 @@
 # AreWeRustYet
-Awesome list of Are we *thing* yet for Rust
+Awesome list of "Are We *thing* Yet" for Rust
