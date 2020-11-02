@@ -26,7 +26,7 @@ A curated Awesome list of websites that tracks the state of Rust in related area
   [Are We Ide Yet](https://areweideyet.com/)  
   
 ## IPFS
-  [Are We IPFS Yet](https://areweipfsyet.rs/)
+  [Are We IPFS Yet](https://areweipfsyet.rs/)  
   ...kinda, yeah! The foundations are there, but there's still a lot of fine-tuning and advanced features to implement.
   
 ## Audio Programming
@@ -46,3 +46,8 @@ A curated Awesome list of websites that tracks the state of Rust in related area
 ## Other Related Sites
   [Mozilla Wiki](https://wiki.mozilla.org/Areweyet)  
   Mozzila's wiki for are we X yet sites which also includes the closed websites too. 
+  
+  [Are We Podcast Yet](https://arewepodcastyet.com/)  
+  On [Soundcloud](https://soundcloud.com/arewepodcastyet) and [Spotify](https://open.spotify.com/show/3cNGj1FWanrNpX44SrUDLZ?si=xExtk0tbT4C5y2QmLPeFTg)  
+  A new fn Podcast about all things Rust by twitter.com/vijaykiran and twitter.com/wouterdullaert
+  
