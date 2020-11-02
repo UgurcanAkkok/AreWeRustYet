@@ -49,5 +49,5 @@ A curated Awesome list of websites that tracks the state of Rust in related area
   
   [Are We Podcast Yet](https://arewepodcastyet.com/)  
   On [Soundcloud](https://soundcloud.com/arewepodcastyet) and [Spotify](https://open.spotify.com/show/3cNGj1FWanrNpX44SrUDLZ?si=xExtk0tbT4C5y2QmLPeFTg)  
-  A new fn Podcast about all things Rust by twitter.com/vijaykiran and twitter.com/wouterdullaert
+  A new fn Podcast about all things Rust by [Vijaykiran](twitter.com/vijaykiran) and [Wouterdullaert](twitter.com/wouterdullaert)
   
