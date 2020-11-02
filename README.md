@@ -45,4 +45,4 @@ A curated Awesome list of websites that tracks the state of Rust in related area
 
 ## Other Related Sites
   [Mozilla Wiki](https://wiki.mozilla.org/Areweyet)  
-  Mozila's wiki for are we X yet sites which also includes the closed websites too. 
+  Mozilla's wiki for are we X yet sites which also includes the closed websites too. 
