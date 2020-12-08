@@ -42,6 +42,10 @@ A curated Awesome list of websites that tracks the state of Rust in related area
 ## Quantum Computing
   [Are We Quantum Yet](https://arewequantumyet.github.io/)  
   Not yet, but we have a few things.  
+  
+## Speed of Rust
+  [Are We Fast Yet RS](https://arewefastyet.rs/)  
+  Measures how long the Rust compiler takes to compile common Rust programs.
 
 ## Other Related Sites
   [Mozilla Wiki](https://wiki.mozilla.org/Areweyet)  
