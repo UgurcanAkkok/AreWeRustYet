@@ -1,4 +1,4 @@
-# AreWeRustYet
+# AreWeRustYet [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated Awesome list of websites that tracks the state of Rust in related areas
 
 ## Web Development 
