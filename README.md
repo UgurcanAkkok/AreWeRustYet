@@ -45,7 +45,11 @@ A curated Awesome list of websites that tracks the state of Rust in related area
   
 ## Speed of Rust
   [Are We Fast Yet RS](https://arewefastyet.rs/)  
-  Measures how long the Rust compiler takes to compile common Rust programs.
+  Measures how long the Rust compiler takes to compile common Rust programs.  
+
+## Stability
+  [Are We 1.0 Yet?](https://arewe1.0yet.org/)  
+   Checking the 360 most downloaded crates of all time on [crates.io](crates.io) to see which ones have reached version 1.0 yet.  
 
 ## Other Related Sites
   [Mozilla Wiki](https://wiki.mozilla.org/Areweyet)  
