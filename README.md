@@ -83,3 +83,9 @@ areweasyncyet.rs is a website for tracking development progress of `async`/`awai
   
   Fast, lightweight, opinionated, unofficial alternative to crates.io.
   Has more information than crates.io and automatically categorizes crates and adds missing keywords, to improve browsing by categories and keywords.
+  
+  [Not-Yet-Awesome Rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust)
+  
+  An (unofficial) sub-community of the Rust programming language that wants to close gaps you feel in Rust's ecosystem.  
+  Lists the problem domains Rust do not have a mature ecosystem for yet.
+  
