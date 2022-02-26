@@ -74,6 +74,10 @@ areweasyncyet.rs is a website for tracking development progress of `async`/`awai
   
   Mozilla's wiki for are we X yet sites which also includes the closed websites too. 
 
+  [Awesome Geo Rust](https://github.com/pka/awesome-georust)
+  
+   A curated list of awesome geospatial software, libraries, tools and resources, written in Rust. 
+
   [Are We Podcast Yet](https://arewepodcastyet.com/)
   
   On [Soundcloud](https://soundcloud.com/arewepodcastyet) and [Spotify](https://open.spotify.com/show/3cNGj1FWanrNpX44SrUDLZ?si=xExtk0tbT4C5y2QmLPeFTg)  
