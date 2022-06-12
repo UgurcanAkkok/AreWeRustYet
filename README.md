@@ -28,7 +28,7 @@ areweasyncyet.rs is a website for tracking development progress of `async`/`awai
   
   Want to find crates for GUI in Rust? Then you've come to the right place!
   
-### [Are We Ide Yet](https://areweideyet.com/)  [![GitHub Repo stars](https://img.shields.io/github/stars/contradictioned/areweideyet?style=social)](https://github.com/contradictioned/areweideyet)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/contradictioned/areweideyet)  ![GitHub last commit](https://img.shields.io/github/last-commit/contradictioned/areweideyet)
+### [Are We IDE Yet](https://areweideyet.com/)  [![GitHub Repo stars](https://img.shields.io/github/stars/contradictioned/areweideyet?style=social)](https://github.com/contradictioned/areweideyet)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/contradictioned/areweideyet)  ![GitHub last commit](https://img.shields.io/github/last-commit/contradictioned/areweideyet)
 
   An overview about the state of Rust support by text editors and their integrated brethren.
   
