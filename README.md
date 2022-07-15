@@ -50,11 +50,7 @@ areweasyncyet.rs is a website for tracking development progress of `async`/`awai
 
   *Not yet, but we have a few things.*
   
-  A framework compilation for all things quantum computing in Rust. crab
-  
-### [Are We Fast Yet RS](https://arewefastyet.rs/)  [![GitHub Repo stars](https://img.shields.io/github/stars/nindalf/arewefastyet?style=social)](https://github.com/nindalf/arewefastyet)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nindalf/arewefastyet)  ![GitHub last commit](https://img.shields.io/github/last-commit/nindalf/arewefastyet)
-
-  Measures how long the Rust compiler takes to compile common Rust programs.  
+  A framework compilation for all things quantum computing in Rust. crab 
 
 ### [Are We Yeet Yet?](https://areweyeetyet.rs/)  [![GitHub Repo stars](https://img.shields.io/github/stars/jakevossen5/areweyeetyet.rs?style=social)](https://github.com/jakevossen5/areweyeetyet.rs)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jakevossen5/areweyeetyet.rs)  ![GitHub last commit](https://img.shields.io/github/last-commit/jakevossen5/areweyeetyet.rs)
 
