@@ -66,6 +66,10 @@ areweasyncyet.rs is a website for tracking development progress of `async`/`awai
 
   Have you ever had an error that you just were so over that you wanted to yeet it back to the caller function? Maybe, say, yeet e it? This page to to track progress on the ability to yeet errors in Rust.
   
+### [Are We In Space Yet](http://areweinspaceyet.org/)  [![GitHub Repo stars](https://img.shields.io/github/stars/AeroRust/are-we-in-space-yet?style=social)](https://github.com/AeroRust/are-we-in-space-yet)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/AeroRust/are-we-in-space-yet)  ![GitHub last commit](https://img.shields.io/github/last-commit/AeroRust/are-we-in-space-yet)
+
+  *It's ready for a fly-by, but the exosphere isn't very safe yet. *
+  
 ### [Are We Embedded Yet?](https://afonso360.github.io/rust-embedded/)  [![GitHub Repo stars](https://img.shields.io/github/stars/afonso360/rust-embedded?style=social)](https://github.com/afonso360/rust-embedded)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/afonso360/rust-embedded?style=flat)  ![GitHub last commit](https://img.shields.io/github/last-commit/afonso360/rust-embedded?style=flat)
 
   *WIP*
