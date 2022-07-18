@@ -70,10 +70,6 @@ areweasyncyet.rs is a website for tracking development progress of `async`/`awai
 
   *It's ready for a fly-by, but the exosphere isn't very safe yet. *
   
-### [Are We Embedded Yet?](https://afonso360.github.io/rust-embedded/)  [![GitHub Repo stars](https://img.shields.io/github/stars/afonso360/rust-embedded?style=social)](https://github.com/afonso360/rust-embedded)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/afonso360/rust-embedded?style=flat)  ![GitHub last commit](https://img.shields.io/github/last-commit/afonso360/rust-embedded?style=flat)
-
-  *WIP*
-  
 ### [Are We 1.0 Yet?](https://arewe1.0yet.org/)  
    Checking the 360 most downloaded crates of all time on [crates.io](crates.io) to see which ones have reached version 1.0 yet.  
 
