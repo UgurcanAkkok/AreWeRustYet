@@ -46,6 +46,14 @@ areweasyncyet.rs is a website for tracking development progress of `async`/`awai
   
   Website + Community effort to unlock the peer-to-peer web at arewedistributedyet.com 
   
+### [Are We Bio Yet](https://rust4bio.github.io/arewebioyet/)  [![GitHub Repo stars](https://img.shields.io/github/stars/rust4bio/arewebioyet.github.io?style=social)](https://github.com/rust4bio/arewebioyet.github.io)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rust4bio/arewebioyet.github.io)  ![GitHub last commit](https://img.shields.io/github/last-commit/rust4bio/arewebioyet.github.io)
+
+  Yes! 🎉🎉🎉
+
+  (but many projects are still work-in-progress)
+
+  The Rust bioinformatics ecosystem contains general, easy-to-use crates like bio, along with a plethora of crates for specific tasks.
+
 ### [Are We Quantum Yet](https://arewequantumyet.github.io/)  [![GitHub Repo stars](https://img.shields.io/github/stars/arewequantumyet/arewequantumyet.github.io?style=social)](https://github.com/arewequantumyet/arewequantumyet.github.io)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/arewequantumyet/arewequantumyet.github.io)  ![GitHub last commit](https://img.shields.io/github/last-commit/arewequantumyet/arewequantumyet.github.io)
 
   *Not yet, but we have a few things.*
