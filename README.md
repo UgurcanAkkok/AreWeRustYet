@@ -68,7 +68,7 @@ areweasyncyet.rs is a website for tracking development progress of `async`/`awai
   
 ### [Are We In Space Yet](http://areweinspaceyet.org/)  [![GitHub Repo stars](https://img.shields.io/github/stars/AeroRust/are-we-in-space-yet?style=social)](https://github.com/AeroRust/are-we-in-space-yet)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/AeroRust/are-we-in-space-yet)  ![GitHub last commit](https://img.shields.io/github/last-commit/AeroRust/are-we-in-space-yet)
 
-  *It's ready for a fly-by, but the exosphere isn't very safe yet. *
+  *Yes! There is some Rust in space!*
 
 ## Other Related Sites
   [Mozilla Wiki](https://wiki.mozilla.org/Areweyet)
