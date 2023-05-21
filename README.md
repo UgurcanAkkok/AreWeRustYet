@@ -36,10 +36,14 @@ areweasyncyet.rs is a website for tracking development progress of `async`/`awai
 
   *...kinda, yeah! The foundations are there, but there's still a lot of fine-tuning and advanced features to implement.*
   
-### [Are we Audio Yet](https://areweaudioyet.com/)  [![GitHub Repo stars](https://img.shields.io/github/stars/RustAudio/areweaudioyet?style=social)](https://github.com/RustAudio/areweaudioyet)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/RustAudio/areweaudioyet)  ![GitHub last commit](https://img.shields.io/github/last-commit/RustAudio/areweaudioyet)
+### [Are We Audio Yet](https://areweaudioyet.com/)  [![GitHub Repo stars](https://img.shields.io/github/stars/RustAudio/areweaudioyet?style=social)](https://github.com/RustAudio/areweaudioyet)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/RustAudio/areweaudioyet)  ![GitHub last commit](https://img.shields.io/github/last-commit/RustAudio/areweaudioyet)
 
   *You can make sounds! 🦀 🔊 There are some libraries and plenty of people making things.*
-  
+
+### [Are We VFX Yet](https://areweaudioyet.com/)  [![GitHub Repo stars](https://img.shields.io/github/stars/vfx-rs/arewevfxyet?style=social)](https://github.com/vfx-rs/arewevfxyet)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vfx-rs/arewevfxyet)  ![GitHub last commit](https://img.shields.io/github/last-commit/vfx-rs/arewevfxyet)
+
+Not yet, but we're getting there. Rust can potentially be a great language for VFX development for tools and libraries used by all levels of developers from juniors all the way to the most senior developer. 
+
 ### [Are We Distributed Yet](https://arewedistributedyet.com/)  [![GitHub Repo stars](https://img.shields.io/github/stars/arewedistributedyet/arewedistributedyet?style=social)](https://github.com/arewedistributedyet/arewedistributedyet)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/arewedistributedyet/arewedistributedyet)  ![GitHub last commit](https://img.shields.io/github/last-commit/arewedistributedyet/arewedistributedyet)
 
   *We're close. We need to fix issues in existing p2p features like webRTC and rally support for new URIs and browser APIs, to create a level playing field where a great user experience doesn't require a centralized system.*
