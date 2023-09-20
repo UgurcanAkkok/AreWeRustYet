@@ -36,11 +36,11 @@ areweasyncyet.rs is a website for tracking development progress of `async`/`awai
 
   *...kinda, yeah! The foundations are there, but there's still a lot of fine-tuning and advanced features to implement.*
   
-### [Are We Audio Yet](https://areweaudioyet.com/)  [![GitHub Repo stars](https://img.shields.io/github/stars/RustAudio/areweaudioyet?style=social)](https://github.com/RustAudio/areweaudioyet)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/RustAudio/areweaudioyet)  ![GitHub last commit](https://img.shields.io/github/last-commit/RustAudio/areweaudioyet)
+### [Are We Audio Yet](https://rust.audio/)  [![GitHub Repo stars](https://img.shields.io/github/stars/RustAudio/website?style=social)](https://github.com/RustAudio/website)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/RustAudio/website)  ![GitHub last commit](https://img.shields.io/github/last-commit/RustAudio/website)
 
   *You can make sounds! 🦀 🔊 There are some libraries and plenty of people making things.*
 
-### [Are We VFX Yet](https://areweaudioyet.com/)  [![GitHub Repo stars](https://img.shields.io/github/stars/vfx-rs/arewevfxyet?style=social)](https://github.com/vfx-rs/arewevfxyet)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vfx-rs/arewevfxyet)  ![GitHub last commit](https://img.shields.io/github/last-commit/vfx-rs/arewevfxyet)
+### [Are We VFX Yet](https://arewevfxyet.rs/)  [![GitHub Repo stars](https://img.shields.io/github/stars/vfx-rs/arewevfxyet?style=social)](https://github.com/vfx-rs/arewevfxyet)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vfx-rs/arewevfxyet)  ![GitHub last commit](https://img.shields.io/github/last-commit/vfx-rs/arewevfxyet)
 
 Not yet, but we're getting there. Rust can potentially be a great language for VFX development for tools and libraries used by all levels of developers from juniors all the way to the most senior developer. 
 
