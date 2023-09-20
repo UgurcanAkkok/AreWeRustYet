@@ -74,6 +74,10 @@ Not yet, but we're getting there. Rust can potentially be a great language for V
 
   *Yes! There is some Rust in space!*
 
+### [Are we stack-efficient yet?](https://arewestackefficientyet.com/)  
+
+ This is a set of graphs that shows the fraction of stack memory move CPU instructions in a sample of Rust code and C++ code. Lower numbers are better. 
+
 ## Other Related Sites
   [Mozilla Wiki](https://wiki.mozilla.org/Areweyet)
   
