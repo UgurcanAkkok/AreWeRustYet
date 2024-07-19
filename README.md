@@ -68,7 +68,7 @@ Not yet, but we're getting there. Rust can potentially be a great language for V
 
   *No*
 
-  Have you ever had an error that you just were so over that you wanted to yeet it back to the caller function? Maybe, say, yeet e it? This page to to track progress on the ability to yeet errors in Rust.
+  Have you ever had an error that you just were so over that you wanted to yeet it back to the caller function? Maybe, say, yeet it? This page to to track progress on the ability to yeet errors in Rust.
   
 ### [Are We In Space Yet](https://aerorust.org/catalogue/)  [![GitHub Repo stars](https://img.shields.io/github/stars/AeroRust/are-we-in-space-yet?style=social)](https://github.com/AeroRust/are-we-in-space-yet)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/AeroRust/are-we-in-space-yet)  ![GitHub last commit](https://img.shields.io/github/last-commit/AeroRust/are-we-in-space-yet)
 
